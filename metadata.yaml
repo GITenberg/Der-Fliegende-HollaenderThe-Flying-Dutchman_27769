@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Richard_Wagner
     - http://fr.wikipedia.org/wiki/Richard_Wagner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27769#Der-Fliegende-HollaenderThe-Flying-Dutchman
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2009-01-11'
 gutenberg_type: Text
